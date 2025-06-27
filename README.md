@@ -1,7 +1,5 @@
 # Catering-reservation-system
 
-# Catering Reservation System
-
 A web-based application that enables users to register, log in, view catering products, place orders, and manage their profiles. Admins can upload products and manage all user orders.
 
 ---
