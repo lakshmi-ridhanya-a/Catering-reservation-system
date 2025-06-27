@@ -144,4 +144,15 @@ Move to Firebase Cloud Functions for advanced backend logic
 
 Consider adding Stripe/PayPal for payments in future
 
+## License
+
+This project is intended for academic and educational purposes. You may use and modify it with proper attribution.
+
+## Author
+
+Lakshmi Ridhanya A  
+B.Tech Computer Science and Engineering  
+Amrita Vishwa Vidyapeetham  
+
+
 
